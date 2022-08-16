@@ -1,0 +1,117 @@
+{
+"state1":{
+"State":"Pennsylvania",
+"Capitol":"Harrisburg",
+"Governer":"Tom wolf",
+"Place to visit":"lancaster,Hersey",
+"Largest city":"Philadelphia",
+"Population":"13,011844",
+"web":"www.pa.gov",
+"Income rank":"23"
+    },
+
+"State2":{
+    "State":"Newyork",
+    "Capitol":"Albany",
+    "Governer":"Kathy Hochul",
+    "Place to visit":"Statue of liberty,Empire state",
+    "Largest city":"Newyork",
+    "Population":"8,804,190",
+    "web":"www.nyc.com",
+    "Income rank":"50"
+},
+
+"State3":{
+    "State":"Newjersy",
+    "Capitol":"Trenton",
+    "Governer":"Phil Murphy",
+    "Place to visit":"Atlantic city,cape may",
+    "Largest city":"Newark",
+    "Population":"9,288,994",
+    "web":"www.nj.gov",
+    "Income rank":"3"
+
+},
+"State4":{
+    "State":"Texas",
+    "Capitol":"Austin",
+    "Governer":"Gerg Abbott",
+    "Place to visit":"space center houston,big bend national park",
+    "Largest city":"Houston",
+    "Population":"29,145,505",
+    "web":"www.texas.gov",
+    "Income rank":"22"
+},
+"State5":{
+    "State":"Virginia",
+    "Capitol":"Richmond",
+    "Governer":"Glen Youngkin",
+    "Place to visit":"Shenandoah Ntional park,Richmond",
+    "Largest city":"Virginia beach",
+    "Population":"8,654,542",
+    "web":"www.virginia.gov",
+    "Income rank":"10"
+},
+"State6":{
+    "State":"Ohio",
+    "Capitol":"Coloumbus",
+    "Governer":"Mike Dewine",
+    "Place to visit":"Cleveland,cincinnati",
+    "Largest city":"coloumbus",
+    "Population":"11,780,017",
+    "web":"www.ohio.gov",
+    "Income rank":"34"
+},
+"State7":{
+    "State":"Tennessee",
+    "Capitol":"Nashville",
+    "Governer":"Bill Lee",
+    "Place to visit":"Memphis,Galtinburg",
+    "Largest city":"Nashville",
+    "Population":"6,916,897",
+    "web":"www.tn.gov",
+    "Income rank":"34"
+},
+"State8":{
+    "State":"Maryland",
+    "Capitol":"Annapolis",
+    "Governer":"Lary Hogan",
+    "Place to visit":"Baltimore",
+    "Largest city":"Bltimore",
+    "Population":"6,177,224",
+    "web":"www.maryland.gov",
+    "Income rank":"1"
+},
+"State9":{
+    "State":"Maine",
+    "Capitol":"Augusta",
+    "Governer":"Janet mills",
+    "Place to visit":"portland",
+    "Largest city":"portland",
+    "Population":"1,362,359",
+    "web":"www.maine.gov",
+    "Income rank":"35"
+},
+"State10":{
+    "State":"Delaware",
+    "Capitol":"Dover",
+    "Governer":"John Carney",
+    "Place to visit":"Mahalaxmi Temple",
+    "Largest city":"Wilmington",
+    "Population":"1,003,384",
+    "web":"www.delaware.gov",
+    "Income rank":"16"
+},
+"State11":{
+    "State":"Oregon",
+    "Capitol":"Salem",
+    "Governer":"Kate Brown",
+    "Place to visit":"carter lake national park",
+    "Largest city":"portland",
+    "Population":"4,246,155",
+    "web":"www.oregon.gov",
+    "Income rank":"18"
+}
+
+
+}

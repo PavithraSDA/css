@@ -1,0 +1,11 @@
+Write a function that counts the number of characters in a string. The function should return number.
+Write a function that accept a two number and return the largest
+write a function to return boolean flag if number is between 5000 and 9999
+Cube root of number
+inches to feet
+Degrees to farenheit
+kg to pounds
+JSON file with listof 10 states is USA with 8 props
+JSON object of cricket team
+Longest string betwewen 2 strings
+Shortest string in an array of strings

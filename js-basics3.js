@@ -193,5 +193,5 @@ const state3 ={
     "MatchesWon":"750",
 
  }
- 
+  
  console.log(JSON.stringify(cricket))
