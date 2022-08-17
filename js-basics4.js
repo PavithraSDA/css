@@ -4,6 +4,5 @@ const cricket ={
     "Captain":"Kohli",
     "MatchesPlayedTillDate":"1000",
     "MatchesWon":"750",
-
  }
  console.log(JSON.stringify(cricket))
